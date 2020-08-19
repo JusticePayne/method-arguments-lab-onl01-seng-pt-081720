@@ -1,8 +1,8 @@
-def introduction (Josh)
+def introduction (name)
   puts "Hi, my name is #{name}."
 end
 
-def introduction_with_language (Dan, Ember.js)
+def introduction_with_language (name, phrase)
   puts "Hi, my name is #{name} and I'm learning how to code."
 
 end
